@@ -1,1 +1,1 @@
-# BansheeLive
+# Banshee Marketplace on Moonbase Alpha Testnet
